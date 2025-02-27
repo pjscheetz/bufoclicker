@@ -23,3 +23,18 @@ Click on some Bufos so you can click on more Bufos.
 5. **Catch golden bufos** when they appear for temporary boosts
 6. **Change themes** to customize your experience
 
+## Roadmap
+
+1. UI enhancements
+2. Porting this to something that isn't python because it's a mess.
+3. More achievements, buildings.
+4. Leaderboard
+5. Goofy special bufo events
+6. Save/Load game
+7. ???
+8. Monetization strategy
+9. Ads, ads and more ads. Who wouldn't want to advertise on a site featuring our favorite amphibian?
+10. Premium bufo currency
+11. Bufo lootboxes
+12. Bufo battlepass
+13. Early retirement
